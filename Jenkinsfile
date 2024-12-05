@@ -4,7 +4,7 @@ pipeline {
     environment {
         REPO_URL = 'https://github.com/blackopsGun/Question-1-devops-exam.git'
         BRANCH_NAME = 'main' 
-        SCRIPT_NAME = 'Question-1-devops-exam/system-date_time.sh'  
+        SCRIPT_NAME = 'system-date_time.sh'  
     }
 
     stages {
